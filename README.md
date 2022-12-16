@@ -2,9 +2,10 @@
 First project of git 
 
 List of technologies used
-### VIM
-### Git
-### Github
-### Version control
-
+<ul>
+<li>VIM</li>
+<li>Git</li>
+<li>Github</li>
+<li>Version Control</li>
+</ul>
 
