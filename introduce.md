@@ -4,7 +4,7 @@
 <h2> 김민기 </h2>
 
 <h3>INTJ</h3>
-<h3></h3>
+<h3>listening to music</h3>
 <h3></h3>
 <h3></h3>
 <h3></h3>
